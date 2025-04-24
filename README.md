@@ -12,7 +12,7 @@ Ce stage m'a préparé à des emplois prêts pour l'industrie. Mon objectif ulti
 
 En 2024, j'ai obtenu la certification `SC-900`. Je me prépare à passer les certifications `Cisco CCNA`, `CompTIA Security+` et `AZ-900`
 
-## Portefeuille
+## Portfolio
 > Veuillez visiter ce [lien](https://www.coursera.org/professional-certificates/google-cybersecurity) pour plus d'informations.
 
 J'ai développé un portfolio en cybersécurité mettant en avant diverses tâches et projets réalisés au cours de mon parcours pour obtenir le certificat professionnel Google Cybersecurity. Ce programme m'a permis d'acquérir des connaissances sur :
